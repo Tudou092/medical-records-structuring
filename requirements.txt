@@ -1,0 +1,5 @@
+# 运行 clean_patient_records.py 所需的依赖
+# 实测环境：Python 3.14.6（Anaconda），pandas 3.0.3 + openpyxl 3.1.5
+# 安装：pip install -r requirements.txt
+pandas>=2.0
+openpyxl>=3.1

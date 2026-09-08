@@ -1,0 +1,11 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# Jupyter 检查点
+.ipynb_checkpoints/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
